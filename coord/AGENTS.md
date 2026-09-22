@@ -162,7 +162,7 @@ additionally requires Bun. Automatic Codex hook trust requires Codex CLI 0.146.0
 accepted only when the required app-server protocol and trust semantics still validate.
 
 ```sh
-cargo install --locked --git 'https://github.com/PaulRBerg/agent-toolkit' ai-coord
+cargo install --locked --git 'https://github.com/0xNikolas/agent-toolkit' ai-coord
 ai-coord link all
 ai-coord check
 ```

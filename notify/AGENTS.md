@@ -70,7 +70,7 @@ notifications for key events.
 Install the CLI directly from the monorepo:
 
 ```bash
-cargo install --git https://github.com/PaulRBerg/agent-toolkit ai-notify --locked --root "$HOME/.local"
+cargo install --git https://github.com/0xNikolas/agent-toolkit ai-notify --locked --root "$HOME/.local"
 ```
 
 Re-run the command to update. Installation targets `~/.local/bin`; configure integrations separately with

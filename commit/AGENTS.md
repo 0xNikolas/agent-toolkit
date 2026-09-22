@@ -69,7 +69,7 @@ composing the commit message; `commit` always validates the candidate again befo
 Requires Git, Cargo, and the rolling Rust nightly toolchain:
 
 ```sh
-cargo install --git https://github.com/PaulRBerg/agent-toolkit ai-commit --locked --root "$HOME/.local"
+cargo install --git https://github.com/0xNikolas/agent-toolkit ai-commit --locked --root "$HOME/.local"
 ```
 
 For local development, install the current checkout instead:
